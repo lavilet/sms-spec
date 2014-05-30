@@ -1,4 +1,4 @@
-require 'rspec'
+require 'rspec/expectations'
 require "sms_spec/version"
 require "sms_spec/helpers"
 require "sms_spec/data"
