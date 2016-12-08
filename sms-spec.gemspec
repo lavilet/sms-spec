@@ -22,5 +22,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rake"
   s.add_development_dependency "twilio-ruby", "~> 3.0"
   s.add_development_dependency "lookout-clickatell", "~> 0.8"
+  s.add_development_dependency "plivo"
   s.add_development_dependency "pry"
 end
